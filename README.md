@@ -6,3 +6,9 @@ It has been developed using :
 *HTML
 *JavaScript
 *CSS
+##REQUIREMENTS NEEDED FOR THE PROJECT
+The project was to tick all the following boxes:
+*Use of;
+   *HTML
+   *CSS
+   *JavaScript
